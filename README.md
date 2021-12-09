@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[<img src="https://www.codewars.com/users/Ciumax/badges/large" />](https://www.codewars.com/users/Ciumax)
 <!--
 **Ciumax/Ciumax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
